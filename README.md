@@ -15,6 +15,7 @@ This repository aims to chronicle the AI evolution in ChatGPT moment. Since its 
 | Visual ChatGPT         | 03/08/2023   | Microsoft    |
 | Alpaca                 | 03/13/2023   | Stanford     |
 | PaLM API               | 03/14/2023   | Google       |
+|ChatGLM-6B|03/14/2023|Tsinghua|
 | GPT-4                  | 03/15/2023   | OpenAI       |
 | 文心一言               | 03/16/2023   | Baidu        |
 | Microsoft 365 Copilot  | 03/16/2023   | Microsoft    |
@@ -22,6 +23,7 @@ This repository aims to chronicle the AI evolution in ChatGPT moment. Since its 
 | Bard AI chatbot        | 03/21/2023   | Google       |
 | GitHub Copilot X       | 03/22/2023   | GitHub       |
 | ColossalChat           | 03/29/2023   | Colossal AI  |
+|Claude|03/30/2023|Anthropic|
 | BloombergGPT           | 03/31/2023   | Bloomberg    |
 | Segment Anything Model | 04/05/2023   | Meta         |
 | 通义千问               | 04/07/2023   | Damo Academy |
@@ -30,10 +32,12 @@ This repository aims to chronicle the AI evolution in ChatGPT moment. Since its 
 
 ## Applications
 
-+ 04/07/2023 *Aliyun* released a large language model **通义千问** .This seems to be a competitor to ChatGPT. [[Link]](https://tongyi.aliyun.com/)
++ 04/07/2023 *Aliyun* released a large language model **通义千问** .This seems to be a competitor to ChatGPT. [[Link]](https://tongyi.aliyun.com/) 
++ 04/05/2023 **Wiseone** is a web extension for summarizing and chatting web page.  And it's free now. [[Link]](https://wiseone.io/) 
 + 04/05/2023 *Meta* released the **Segment Anything Model (SAM)** — a step toward the first foundation model for image segmentation. a promptable model that is trained on diverse data and that can adapt to specific tasks, analogous to how prompting is used in natural language processing models. [[Link]](https://github.com/facebookresearch/segment-anything)
 + 04/03/2023 **Vicuna-13B** weights are released [[Link]](https://github.com/lm-sys/FastChat/#vicuna-weights) 
 + 03/31/2023 *Bloomberg* released **BloombergGPT**, a large language model for finance. [[Link]](https://arxiv.org/abs/2303.17564) 
++ 03/30/2023 *Anthropic* released new **Claude** for Slack. [[Link]](https://www.anthropic.com/index/claude-now-in-slack) 
 + 03/29/2023 *Colossal AI* released **ColossalChat**, An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline. [[Link]](https://chat.colossalai.org/) 
 + 03/24/2023 *OpenAI* adding support for **plugins to ChatGPT** — extensions which integrate it with third-party services or allow it to access up-to-date information. [[Link]](https://openai.com/blog/chatgpt-plugins) 
 + 03/22/2023 *GitHub* introduced **GitHub Copilot X**, the future of AI-powered software development. [[Link]](https://github.com/features/preview/copilot-x) 
@@ -44,6 +48,7 @@ This repository aims to chronicle the AI evolution in ChatGPT moment. Since its 
 + 03/16/2023 *Baidu* released **文心一言** , the chinese version of ChatGPT. [[Link]](https://yiyan.baidu.com/welcome) 
 + 03/15/2023 *OpenAI* announced **GPT-4**, it's most advanced system, producing safer and more useful responses. [[Link]](https://openai.com/product/gpt-4) 
 + 03/14/2023 *Google* announced **PaLM API**, the next generation of AI for developers and Google Workspace. [[Link]](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html) 
++ 03/14/2023 *Tsinghua* released **ChatGLM-6B**. [[Link]](https://github.com/THUDM/ChatGLM-6B) 
 + 03/13/2023 **Stanford** released *Alpaca*, a Strong,replicable instruction-following model. [[Link]](https://crfm.stanford.edu/2023/03/13/alpaca.html) 
 + 03/08/2023 *Microsoft* released **Visual ChatGPT**, connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. [[Link]](https://github.com/microsoft/visual-chatgpt) [[Paper]](https://arxiv.org/abs/2303.04671) 
 + 03/02/2023 *OpenAI* Introduced **ChatGPT APIs**, Apps can be integrated with GPT-3.5 power. [[Link]](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) 
@@ -72,6 +77,8 @@ This repository aims to chronicle the AI evolution in ChatGPT moment. Since its 
 + 03/30/2023 **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace** [[Paper]](https://arxiv.org/abs/2303.17580) 
 
   HuggingGPT is a framework that utilizes large language models, such as ChatGPT, to connect and manage various AI models from machine learning communities like Hugging Face, enabling the solution of complex AI tasks across multiple domains and modalities, paving the way towards advanced artificial intelligence.
+
++ 03/04/2022 **Training language models to follow instructions with human feedback** [[Paper]](https://arxiv.org/pdf/2203.02155.pdf) 
 
 
 
